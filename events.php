@@ -114,6 +114,37 @@
               <div class="col-md-2"></div>
               <div class="col-md-8">
                 <div class="blog-archive-left">
+				
+				
+				
+				
+				
+				<article class="blog-news-single">
+                    <!-- <div class="blog-news-img">
+                      <img src="assets/images/calc2suc.jpg" alt="image" >
+                    </div> -->
+                    <div class="blog-news-title">
+                      <h2><b>‘Little Writers Awards’ - Lagos</b></h2>
+                      <!-- <p>By <a class="blog-author" href="#">John Powell</a> <span class="blog-date">|18 October 2015</span></p> -->
+                    </div>
+                    <div class="blog-news-details blog-single-details">
+                      <p>The Little Writers Awards is a project under the Society’s Junior Initiative organised for students and teachers of government-owned secondary schools. The yearly essay competition is aimed at affording students and teachers of Nigerian schools the opportunity to think and analyse issues of importance to the development of education in Nigeria, and to create a platform to showcase and improve their writing skills. Students and teachers who participate in the 2016 AIFA Reading Society Essay Competition will be honoured and awards presented to the finalists of the essay competition at the event.</p>
+
+                      <!--<p>The event is scheduled to hold on Monday, November 14, and Tuesday, November 15, 2016.</p>
+                      <br><br>-->
+
+                    
+                     <img src="assets/images/aifa-news-2017update.png" alt="image" >
+					 <br><br>
+					 
+					            <div class="price-footer">
+                      <a class="purchase-btn" href="participants.php">Participants - AIFA Reading Society 2016 Essay Writing Competition</a>
+                     </div>
+
+                      
+                      
+                    </div>
+                  </article>
 
 
 

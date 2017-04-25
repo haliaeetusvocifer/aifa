@@ -128,7 +128,7 @@
 
 
                 
-                    <div class="panel panel-default">
+                    <!--<div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
@@ -152,7 +152,7 @@
                          
                         </div>
                       </div>
-                    </div>
+                    </div>-->
           
           
           
@@ -162,12 +162,12 @@
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                            AIFA Reading Society ‘Calculate2Succeed’ Project <span class="fa fa-plus-square"></span>
+                            AIFA Reading Society ‘Calculate2Succeed’ Project <span class="fa fa-minu-square"></span>
                             
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseTwo" class="panel-collapse collapse">
+                      <div id="collapseTwo" class="panel-collapse collapse in">
                         <div class="panel-body">
                         
                          <p>In the Society’s effort to promote a sustainable framework for the development of education in Nigeria, the Society undertook its project tagged ‘Calculate2Succeed’ which is geared towards empowering students in public schools with the tools necessary to excel in mathematics and science subjects.</p>

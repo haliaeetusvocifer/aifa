@@ -1306,10 +1306,13 @@ img{
 /*--------------------*/
 
 #clients-brand{
-  background-color: #fff;
+  background-attachment: fixed !important;
+  
+  background-repeat: repeat;
+  background-size: cover;
+  color: #ffffff;
   display: inline;
-  float: left;
-  padding: 70px 0;
+  float: left;    
   width: 100%;
 }
 
@@ -1329,8 +1332,7 @@ img{
 }
 
 .single-brand {
-  background-color: #f8f8f8;
-  border: 1px solid #ccc;
+ 
   display: inline;
   float: left;
   height: 120px;

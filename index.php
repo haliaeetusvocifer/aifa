@@ -41,6 +41,44 @@
     <![endif]-->
   </head>
   <body>
+
+  <!-- #region Jssor Slider Begin -->
+    <script src="assets/js/jssor.slider-23.1.5.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        jssor_1_slider_init = function() {
+
+            var jssor_1_options = {
+              $AutoPlay: 1,
+              $Idle: 0,
+              $AutoPlaySteps: 4,
+              $SlideDuration: 2500,
+              $SlideEasing: $Jease$.$Linear,
+              $PauseOnHover: 4,
+              $SlideWidth: 140,
+              $Cols: 7
+            };
+
+            var jssor_1_slider = new $JssorSlider$("jssor_1", jssor_1_options);
+
+            /*responsive code begin*/
+            /*remove responsive code if you don't want the slider scales while window resizing*/
+            function ScaleSlider() {
+                var refSize = jssor_1_slider.$Elmt.parentNode.clientWidth;
+                if (refSize) {
+                    refSize = Math.min(refSize, 809);
+                    jssor_1_slider.$ScaleWidth(refSize);
+                }
+                else {
+                    window.setTimeout(ScaleSlider, 30);
+                }
+            }
+            ScaleSlider();
+            $Jssor$.$AddEvent(window, "load", ScaleSlider);
+            $Jssor$.$AddEvent(window, "resize", ScaleSlider);
+            $Jssor$.$AddEvent(window, "orientationchange", ScaleSlider);
+            /*responsive code end*/
+        };
+    </script>
   
   <!-- BEGAIN PRELOADER -->
   <!-- <div id="preloader">
@@ -251,8 +289,93 @@
         </div>
       </div>
     </div>
+    <div><br><br></div>
   </section>
+  
   <!-- End Pricing table -->
+
+
+
+  <!-- Start Clients brand -->
+  
+  <section id="clients-brand">
+  <div><br><br></div>
+    <div class="container">
+      <div class="row">
+      <div class="col-md-12">
+           <div class="title-area">
+              <h2 class="title">PARTNERS</h2>
+              <span class="line"></span>
+              <p>We Partner with Corporate Organisations, Government and State Institutions to achieve sustainable educational development in Africa by promoting and supporting a reading culture.</p>
+              <div><br></div>
+
+            </div>
+         </div>
+        <div class="col-md-12">
+          <div class="clients-brand-area">
+          <style></style>
+            
+
+            <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:100px;overflow:hidden;visibility:hidden;">
+        <!-- Loading Screen -->
+        <div data-u="loading" style="position:absolute;top:0px;left:0px;background-color:rgba(0,0,0,0.7);">
+            <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
+            <div style="position:absolute;display:block;background:url('assets/img/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
+        </div>
+        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:100px;overflow:hidden;">
+            <div>
+                <img data-u="image" src="assets/images/kenna.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/prestige.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/novarre.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/urshday.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/funworld.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/kenna.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/prestige.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/novarre.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/urshday.png" />
+            </div>
+            <div>
+                <img data-u="image" src="assets/images/funworld.png" />
+            </div>
+            
+        </div>
+    </div>
+    <script type="text/javascript">jssor_1_slider_init();</script>
+    <!-- #endregion Jssor Slider End -->
+
+
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div><br><br></div>
+  </section>
+  <!-- End Clients brand -->
+
+
+
+
+
+
+
 
   <!-- Start subscribe us -->
   <section id="subscribe">

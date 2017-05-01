@@ -358,10 +358,6 @@
     </div>
     <script type="text/javascript">jssor_1_slider_init();</script>
     <!-- #endregion Jssor Slider End -->
-
-
-
-
           </div>
         </div>
       </div>
@@ -441,7 +437,7 @@
       <div class="row">
         <div class="col-md-6 col-sm-6">
           <div class="footer-left">
-            <!-- <p>Designed by <a href="http://www.markups.io/">MarkUps.io</a></p> -->
+            
           </div>
         </div>
         <div class="col-md-6 col-sm-6">

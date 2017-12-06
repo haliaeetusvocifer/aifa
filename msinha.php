@@ -118,15 +118,15 @@
                       <img src="assets/images/blog-img-1.jpg" alt="image">
                     </div> -->
                     <div class="blog-news-title">
-                      <h2>Professor Fabian Ajogwu, SAN</h2>
+                      <h2>Mrs. Monika Sinha</h2>
                       <p>Director</p>
                     </div>
                     <div class="blog-news-details blog-single-details">
-                      <p>Fabian Ajogwu is a Senior Advocate of Nigeria and Lagos Business School Professor of corporate governance. He is an Alumnus of the Said Business School of Oxford University, and an Alumnus of the Lagos Business School. Professor Ajogwu holds a doctorate degree in Law from the University of Aberdeen, Scotland, an MBA from the IESE Business School, University of Navarra, Barcelona; and Law degrees from the University of Nigeria, and University of Lagos.</p>
-
-                      <p>The Learned Senior Advocate has extensive experience in deal structuring for complex real estate transactions and currently serves on the Boards of some real estate development companies in Nigeria with investments portfolios across the country. He has also been lead Counsel to the Federal Government of Nigeria in several cases of national importance with emphasis in aviation, defence, energy, and financial services sectors. He serves on various boards and chairs the boards of a number of Nigerian companies. He has served as Honorary Counsel to the State of Israel in Nigeria, and Republic of South African in Nigeria. Professor Ajogwu assisted the Securities and Exchange Commission in drafting Nigeria’s pioneer Code of Corporate Governance. He chaired the Nigerian Communications Commission Committee on Corporate Governance that produced the 2014 NCC Code of Corporate Governance for the Telecommunication Sector. The Learned Silk is a Fellow of the Society for Corporate Governance Nigeria; a Fellow of the Chartered Institute of Arbitrators Nigeria, Fellow of the African Leadership Initiative West Africa, Henry Crown Global Leadership of the Aspen Institute and a Fellow of the AIFA Reading Society.</p>
+                      <p>Monika Sinha is currently the Practice Administrator at Kenna partners. She is responsible for shaping the strategy and vision of the organisation. She is also a Director with Commercial Law Development Services. She has an extensive background in IT & Human Resources. She has worked across a number of industries including FMCG, Computer Institute, IT Companies & Educational sector. She is a B.A holder in Economics and M.B.A in Human Resources from the Premium Business Institute in India.</p>
                       
-                      <p>He is the Author of the books – ‘Ship Acquisition & Finance: Law & Practice’; ‘Corporate Governance & Group Dynamics’; ‘Corporate Governance in Nigeria: Law and Practice’; ‘Commercial Arbitration in Nigeria: Law and Practice’; ‘Fair Hearing’; ‘Mergers & Acquisition in Nigeria: Law and Practice’; ‘Law & Society’. He is the co-author of ‘Petroleum Law and Sustainable Development”; ‘Legal & Regulatory Aspects of Commerce’ and ‘Trade & Investments in Nigeria: Legal and Regulatory Aspects’.</p>
+					  <p>Monika holds expertise in strategy planning, strong team player skill, operational performance Improvement and organizational development. These experiences have given her enriching opportunities to effectively handle people and complex situations in an organisation thereby enhancing productivity in the company.</p>
+					  
+					  <p>She believes in producing excellence in everything she does, this has therefore made her a critical thinker with strong analytical and organizational skills developed in various deadline oriented situations.</p>
                       
                     </div>
                   </article>

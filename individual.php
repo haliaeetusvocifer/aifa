@@ -154,7 +154,29 @@
 
                         <li><p>Receive electronic newsletters and other e-publications of the Society</p></li>
                       </ol>
-                   
+
+                      <!-- <h3>Benefits to Potential Corporate Members</h3>
+
+                      <p>By partnering with and becoming a Corporate Member of the AIFA Reading Society, your organisation will:</p>
+
+                      <ol>
+                        <li><p>Be an Ambassador for the promotion of reading and empowering disadvantaged groups (adults, children and youth) through education</p></li>
+
+                        <li><p>Reinforce and improve its reputation as a socially responsible organisation</p></li>
+
+                        <li><p>Improve overall security in the society as literate youth are less likely to be restive and a danger to their communities, thus encouraging economic growth</p></li>
+
+                        <li><p>Improve overall educational success and support the creation of more resourceful and employable youth</p></li>
+                        
+                        <li><p>Support in the resuscitation of the decline and abysmal reading culture in Nigeria</p></li>
+
+                        <li><p>Bolster its employee volunteer scheme where staff will have an opportunity to volunteer in several of AIFA’s Junior Initiative Programmes</p></li>
+
+                        <li><p>Mention on the Society’s website and other publicity materials and social media platforms</p></li>
+                      </ol> -->
+
+
+                     
                      <div class="price-footer">
                       <a class="purchase-btn" href="form-individual.php">Fill membership brochure</a>
                      </div>

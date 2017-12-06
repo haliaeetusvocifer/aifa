@@ -1,3 +1,4 @@
+
 /*
 Template Name: Intensely
 Author: MarkUps
@@ -1076,7 +1077,6 @@ img{
 	display: inline;
 	float: left;
 	width: 100%;
-	text-align: justify;
 }
 
 .purchase-btn {
@@ -1180,11 +1180,10 @@ img{
 }
 
 .single-team-member > p {
-	color: #222;
-	font-size: 14px;
-	line-height: 20px;
-	padding: 0 10px;
-	text-align: justify;
+  color: #222;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 10px;
 }
 
 .single-team-member:hover .team-member-link{	

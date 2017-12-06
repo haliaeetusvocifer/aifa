@@ -191,7 +191,7 @@
                       <i class="fa fa-suitcase"></i>
                     </div>
                     <div class="counter-no counter">
-                      13
+                      11
                     </div>
                     <div class="counter-label">
                       Projects
@@ -207,7 +207,7 @@
                       <i class="fa fa-users"></i>
                     </div>
                     <div class="counter-no counter">
-                      5420
+                      4009
                     </div>
                     <div class="counter-label">
                       Lives Touched
@@ -348,15 +348,6 @@
             <div>
                 <img data-u="image" src="assets/images/funworld.png" />
             </div>
-             <div>
-                <img data-u="image" src="assets/images/blueboat logo.png" />
-            </div>
-             <div>
-                <img data-u="image" src="assets/images/Mikano-logo-new.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/AMBLOGO_FULLCOLOR_RGB.jpg" />
-            </div>
             <div>
                 <img data-u="image" src="assets/images/kenna.png" />
             </div>
@@ -372,15 +363,7 @@
             <div>
                 <img data-u="image" src="assets/images/funworld.png" />
             </div>
-             <div>
-                <img data-u="image" src="assets/images/blueboat logo.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/Mikano-logo-new.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/AMBLOGO_FULLCOLOR_RGB.jpg" />
-            </div>
+            
         </div>
     </div>
     <script type="text/javascript">jssor_1_slider_init();</script>
@@ -398,30 +381,41 @@
   <!-- End Clients brand -->
   
   <!-- Start subscribe us -->
-  <section id="subscribe" align="left">   
-    <div class="subscribe-overlay">
-      <div class="container">
+  <section id="subscribe">
+      <section id="subscribe" align="left">
+      <div class="subscribe-overlay">
+           <div class="container">
         <div class="col-lg-2">
           <div class="col-md-12">
-            <div class="subscribe-area" align="left">
+            <div class="subscribe-area" align="right">
               <h4 class="wow fadeInUp" align="left">Email Newsletters</h4>
               <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
                 <input type="text" placeholder="Enter Your E-mail.." >
                 <button class="subscribe-btn" type="submit" align="left" >Submit</button>
               </form>              
             </div>
+       <div id="content-wrap" align="right"><a class="twitter-timeline" data-width="350" data-height="400" href="https://twitter.com/aifareading">Tweets by aifareading</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div></div>
+</div>
+       
           </div>        
         </div>
       </div>
       </div>
   </section>
   <!-- End subscribe us -->
-<div id="main-wrap">
-	<div id="content-wrap">
-	<div id="info-wrap">
-				
-	</div>
+<div class="modal-body row">
+  <div class="col-md-6">
+    <!-- Your first column here -->
+  </div>
+  <div class="col-md-6">
+    <!-- Your second column here -->
+  </div>
 </div>
+ 
+ 
+ 
+ 
+ 
   <!-- Start footer -->
   <footer id="footer">
 <div class="col-md-12">

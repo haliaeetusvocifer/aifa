@@ -42,16 +42,6 @@
   </head>
   <body>
 
-<!-- facebook Script-->
- <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
- 
   <!-- #region Jssor Slider Begin -->
     <script src="assets/js/jssor.slider-23.1.5.min.js" type="text/javascript"></script>
     <script type="text/javascript">
@@ -191,7 +181,7 @@
                       <i class="fa fa-suitcase"></i>
                     </div>
                     <div class="counter-no counter">
-                      13
+                      11
                     </div>
                     <div class="counter-label">
                       Projects
@@ -207,7 +197,7 @@
                       <i class="fa fa-users"></i>
                     </div>
                     <div class="counter-no counter">
-                      5420
+                      4009
                     </div>
                     <div class="counter-label">
                       Lives Touched
@@ -348,15 +338,6 @@
             <div>
                 <img data-u="image" src="assets/images/funworld.png" />
             </div>
-             <div>
-                <img data-u="image" src="assets/images/blueboat logo.png" />
-            </div>
-             <div>
-                <img data-u="image" src="assets/images/Mikano-logo-new.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/AMBLOGO_FULLCOLOR_RGB.jpg" />
-            </div>
             <div>
                 <img data-u="image" src="assets/images/kenna.png" />
             </div>
@@ -372,15 +353,7 @@
             <div>
                 <img data-u="image" src="assets/images/funworld.png" />
             </div>
-             <div>
-                <img data-u="image" src="assets/images/blueboat logo.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/Mikano-logo-new.png" />
-            </div>
-            <div>
-                <img data-u="image" src="assets/images/AMBLOGO_FULLCOLOR_RGB.jpg" />
-            </div>
+            
         </div>
     </div>
     <script type="text/javascript">jssor_1_slider_init();</script>
@@ -398,17 +371,17 @@
   <!-- End Clients brand -->
   
   <!-- Start subscribe us -->
-  <section id="subscribe" align="left">   
+  <section id="subscribe">
     <div class="subscribe-overlay">
       <div class="container">
-        <div class="col-lg-2">
+        <div class="row">
           <div class="col-md-12">
-            <div class="subscribe-area" align="left">
-              <h4 class="wow fadeInUp" align="left">Email Newsletters</h4>
+            <div class="subscribe-area">
+              <h2 class="wow fadeInUp">Subscribe To Our Newsletter</h2>
               <form action="" class="subscrib-form wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.5s">
-                <input type="text" placeholder="Enter Your E-mail.." >
-                <button class="subscribe-btn" type="submit" align="left" >Submit</button>
-              </form>              
+                <input type="text" placeholder="Enter Your E-mail..">
+                <button class="subscribe-btn" type="submit">Submit</button>
+              </form>
             </div>
           </div>        
         </div>
@@ -416,12 +389,7 @@
       </div>
   </section>
   <!-- End subscribe us -->
-<div id="main-wrap">
-	<div id="content-wrap">
-	<div id="info-wrap">
-				
-	</div>
-</div>
+
   <!-- Start footer -->
   <footer id="footer">
 <div class="col-md-12">

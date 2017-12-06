@@ -289,15 +289,16 @@
               <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/b6.png" alt="team member img">
+                   <img src="assets/images/msinha.jpg" alt="team member img">
                  </div>
                  <div class="team-member-name">
-                   <p>Anamika Chatterjee</p>
+                   <p>Mrs. Monika Sinha</p>
                    <span>Director</span>
                  </div>
-                 <p>Anamika Chatterjee is the Practice Administrator at Kenna Partners. She is responsible for shaping the strategy and vision of the organization. This includes partnering with the senior management team to focus on action-oriented, enduring and repeatable results for our clients, overseeing the execution of business plans and inspiring Kenna Partners’ leadership and people.</p>
+                 <p>Monika Sinha is currently the Practice Administrator at Kenna Partners. She is responsible for shaping the strategy and vision of the organisation. She is also a Director with Commercial Law Development Services...<br><br></p>
                  <div class="price-footer">
-                    <a class="purchase-btn" href="anamikachatterjee.php">Read More</a>
+                    <a class="purchase-btn" href="msinha.php">Read More</a>
+
                  </div>
                 </div>
               </div>
@@ -311,23 +312,6 @@
               <div class="col-md-4 col-sm-6 col-xs-12">
                 <div class="single-team-member">
                  <div class="team-member-img">
-                   <img src="assets/images/b7.png" alt="team member img">
-                 </div>
-                 <div class="team-member-name">
-                   <p>Dr. Nnaeto Orazulike</p>
-                   <span>Director</span>
-                 </div>
-                 <p>Dr. Orazulike is the Chairman and Chief Executive Officer of Genesis Group, that comprises Genesis Foods Limited, Genesis Sojourner Limited, Genesis Deluxe Cinemas Limited, Genesis Restaurant Limited; Genesis Hub Limited, Genesis Technical Company Limited...<br><br></p>
-                 <div class="price-footer">
-                    <a class="purchase-btn" href="nnaetorazulike.php">Read More</a>
-                 </div>
-                </div>
-              </div>
-              <!-- Start single team member -->
-              <!-- Start single team member -->
-              <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-team-member">
-                 <div class="team-member-img">
                    <img src="assets/images/b8.png" alt="team member img">
                  </div>
                  <div class="team-member-name">
@@ -337,6 +321,7 @@
                  <p>Ngozi Obigwe is a development sector professional with extensive experience in Nigeria and has worked with organisations that support entrepreneurs, youth and social innovators.<br><br><br><br></p>
                  <div class="price-footer">
                     <a class="purchase-btn" href="ngoziobigwe.php">Read More</a>
+
                  </div>
                 </div>
               </div>
@@ -354,7 +339,12 @@
                  <p>Fabian Ajogwu is a Senior Advocate of Nigeria and Lagos Business School Professor of corporate governance. He is an Alumnus of the Said Business School of Oxford University, and an Alumnus of the Lagos Business School.<br></p>
                  <div class="price-footer">
                     <a class="purchase-btn" href="fabianajogwu.php">Read More</a>
+
                  </div>
+                </div>
+              </div>
+              <!-- Start single team member -->
+             
                 </div>
               </div>
               <!-- Start single team member -->

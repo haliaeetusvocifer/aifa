@@ -153,50 +153,18 @@
                         </div>
                       </div>
                     </div>-->
-
-                    <div class="panel panel-default">
-                      <div class="panel-heading">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
-                            Book Drive Campaign – Give the Gift of Reading <span class="fa fa-minus-square"></span>
-                            
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in">
-                        <div class="panel-body">
-                      
-                                 
-
-          <p>The Society’s primary focus has been to promote the adoption of best reading practices across Nigeria. In line with this, the Society organized a book drive campaign tagged ‘Give the Gift of Reading’ to address the lack of educational materials in Government school libraries. This drive was an initiative to resuscitate the decline and abysmal reading culture among children and youth in the country.</p>
-          
-          <p>Through this campaign, the Society received 433 reading materials with the support of individuals who donated towards the project. The books received included; educational text books cutting across all subjects like Mathematics, English Language, Government, Economics, Basic Science, Biology, Basic Education, Health Education etc.</p>
-
-          <p>Representatives and volunteers of the Society visited five (5) public schools in Lagos state to give the gift of reading to students and teachers of these schools by donating the reading materials received to the schools’ libraries.  The beneficiaries of this project include; <span style="font-weight: bold">Lagos Anglican Grammar School, Ojuelegba</span> (73 Senior Secondary School books), <span style="font-weight: bold">Girls’ Junior Academy, Lagos Island</span> (85 Junior Secondary School books), <span style="font-weight: bold">Ikoyi Nursery and Primary School, Ikoyi</span> (110 primary school books), <span style="font-weight: bold">Federal Housing Estate Primary School, Victoria Island</span> (90 primary school books), and <span style="font-weight: bold">Destiny Children School, Ajegunle</span> (77 Primary School books).<p>
-
-          <p>Ms. Blessing Sunday, a representative of the Society advised the students on the importance of reading and how the library more than any other place, provides ideal environment and vital information resources for students to develop and sustain good study habits necessary for excellent performance in academic works.</p>
-
-          <p>The Principals and teachers of these schools commend the effort of the Society for its keen interest in offering learning support to government schools by providing reading and instructional materials.</p>
-
-          <p>This project was supported by Mrs. Oshoba, Mrs. Audrey Ajogwu, Ms. Chinyere Akachukwu, Mrs. Shamsiya Sadiq-Mohammed, Ms. Ngozi Obigwe, Ms. Oludolapo Makinde, Mrs. Gaga and individuals who prefer to remain anonymous.</p>
-
-          <span style="color: #555555">AIFA Reading Society | May 25, 2017</span><br> <img class="why-choose-img" src="assets/images/Book-Drive-Campaign-Give-the-Gift-of-Reading.png" alt="Director, AIFA Reading Society, Mrs. Folashade Alli (left); Miss Faustina Peace Anani of Magbon-Alade Senior Grammar School; Ini-Obong Alfred of Ajeromi Ifelodun Senior High School; Senior Secondary School category star prize winner, Chidinma Okonkwo of Okesuna Senior High School, Lagos Island and President of AIFA Reading Society, Dr. Enase Okonedo at the event… in Lagos">
-
-                                                </div>
-                      </div>
-                    </div>
                     
                     
           <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
-                            Little Writers Awards Lift Dwindling Reading Culture <span class="fa fa-plus-square"></span>
+                            Little Writers Awards Lift Dwindling Reading Culture <span class="fa fa-minu-square"></span>
                             
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseTwo" class="panel-collapse collapse">
+                      <div id="collapseTwo" class="panel-collapse collapse in">
                         <div class="panel-body">
                       
                          				 
@@ -208,7 +176,9 @@
 					<p>According to her, recent study has shown that 40 per cent of Nigeria graduates do not read after school. Okonedo expressed happiness with the acceptance of the yearly Little Writers’ Awards, with the increasing number of schools participating, thereby promoting reading.<p>
 					<p>The society, she said, also embarked on a yearly book drive to encourage reading among pupils. Expounding on the theme ‘Reviving the Reading Culture: A Prerequisite for Self and National Development,’ Principal Consultant of Discover Your Potential Ltd, Dr. Kunbi Wuraola, said when one cannot read, he cannot write well and if one don’t write well, one cannot speak well. She stressed that everyone has a role to play to revive reading culture in the society.</p>
 
-					<span style="color: #555555">The Guardian | June 18, 2017</span> <img class="why-choose-img" src="assets/images/bgaifa.jpg" alt="Director, AIFA Reading Society, Mrs. Folashade Alli (left); Miss Faustina Peace Anani of Magbon-Alade Senior Grammar School; Ini-Obong Alfred of Ajeromi Ifelodun Senior High School; Senior Secondary School category star prize winner, Chidinma Okonkwo of Okesuna Senior High School, Lagos Island and President of AIFA Reading Society, Dr. Enase Okonedo at the event… in Lagos">
+					The Guardian | June 18, 2017
+					
+					<img class="why-choose-img" src="assets/images/bgaifa.jpg" alt="Director, AIFA Reading Society, Mrs. Folashade Alli (left); Miss Faustina Peace Anani of Magbon-Alade Senior Grammar School; Ini-Obong Alfred of Ajeromi Ifelodun Senior High School; Senior Secondary School category star prize winner, Chidinma Okonkwo of Okesuna Senior High School, Lagos Island and President of AIFA Reading Society, Dr. Enase Okonedo at the event… in Lagos">
 
                                                 </div>
                       </div>
@@ -217,13 +187,13 @@
           <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
-                            Winners Emerge in Writing Competition <span class="fa fa-plus-square"></span>
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                            Winners Emerge in Writing Competition <span class="fa fa-minu-square"></span>
                             
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseThree" class="panel-collapse collapse">
+                      <div id="collapseTwo" class="panel-collapse collapse in">
                         <div class="panel-body">
                         
                          
@@ -238,20 +208,27 @@
 						<p>While delivering an address, Dr. Kunbi Wuraola, encouraged pupils to make reading a habit. She told them that reading expanded possibilities of being successful, urging that guardians must assist in making reading convenient. “Everybody has a role to play. As long as you know one young person, you should be involved. Parents, teachers, community and religious centres must take the encouragement of reading activities as a necessity,” she said.
 						Speaking on behalf of the winners, Chidinma Okonkwo hailed the organisers for eliciting reading interest in them. She urged the winners and participants not to relent in writing and reading.</p>
 						
-						<span style="color: #555555">The Punch | June 9, 2017</span> </div>
+						The Punch | June 9, 2017
+
+
+
+                         
+
+                                                  
+                        </div>
                       </div>
                     </div>
           
           <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
-                            NGO Rewards Teachers, Students to Promote Reading Culture <span class="fa fa-plus-square"></span>
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                            NGO Rewards Teachers, Students to Promote Reading Culture <span class="fa fa-minu-square"></span>
                             
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseFour" class="panel-collapse collapse">
+                      <div id="collapseTwo" class="panel-collapse collapse in">
                         <div class="panel-body">
                         
                          <p>In its continuous drive towards promoting reading culture in Nigeria and Africa, AIFA Reading Society has rewarded outstanding teachers and students in junior and senior secondary schools in Lagos State. At its 2017 Little Writers Award held recently, at the Oriental Hotel, Victoria Island, Lagos, with the theme: ‘Reviving the Reading Culture: A Prerequisite for self and National Development’, three winners from each of the three categories emerged and were rewarded with lofty cash prizes and other items.</p>
@@ -264,20 +241,24 @@
                          
                          <p>In her appreciation to the society for the award, the star prize winner in the senior secondary category, Miss Chidimma Okonkwo, said: “I feel so happy and overwhelmed and I’m grateful to God for enabling me to win this award. I want to say a big thank you to AIFA Reading Society because this platform has really boosted my confidence in writing and speaking. They should keep doing their great work for our society.”</p>
 							
-					    <span style="color: #555555">ThisDay | June 9, 2017</span> </div>
+						 ThisDay | June 9, 2017
+
+
+                                                                          
+                        </div>
                       </div>
                     </div>
           
           <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
-                            AIFA Reading Society ‘Calculate2Succeed’ Project <span class="fa fa-plus-square"></span>
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+                            AIFA Reading Society ‘Calculate2Succeed’ Project <span class="fa fa-minu-square"></span>
                             
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseFive" class="panel-collapse collapse">
+                      <div id="collapseTwo" class="panel-collapse collapse in">
                         <div class="panel-body">
                         
                          <p>In the Society’s effort to promote a sustainable framework for the development of education in Nigeria, the Society undertook its project tagged ‘Calculate2Succeed’ which is geared towards empowering students in public schools with the tools necessary to excel in mathematics and science subjects.</p>
@@ -301,12 +282,12 @@
                     <div class="panel panel-default">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseSix">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
                             AIFA Reading Society ‘Book Drive’ <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseSix" class="panel-collapse collapse">
+                      <div id="collapseThree" class="panel-collapse collapse">
                         <div class="panel-body">
                          <p>The Society’s primary focus has been to promote the adoption of best reading practices across Africa. In line with this, the Society organized a book drive campaign to address the lack of educational materials in Government school libraries. This drive was an initiative to promote a reading culture among children and youth.</p>
 
@@ -334,12 +315,12 @@
                     <div class="panel panel-default ">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseSeven">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseFour">
                             AIFA Reading Society <i>‘Little Writers Awards’</i> Ceremony <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseSeven" class="panel-collapse collapse">
+                      <div id="collapseFour" class="panel-collapse collapse">
                         <div class="panel-body">
                          <p>The AIFA Reading Society held its <b><i>‘Little Writers Awards’</i></b> ceremony on Friday, October 7, 2016 at Adada House, Old G.R.A, Nsukka, Enugu State.</p>
 
@@ -369,12 +350,12 @@
                     <div class="panel panel-default ">
                       <div class="panel-heading">
                         <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseEight">
+                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseFive">
                             Winners emerge in maiden AIFA Reading Society Awards <span class="fa fa-plus-square"></span>
                           </a>
                         </h4>
                       </div>
-                      <div id="collapseEight" class="panel-collapse collapse">
+                      <div id="collapseFive" class="panel-collapse collapse">
                         <div class="panel-body">
                          <p>Winners have emerged in the maiden edition of AIFA Reading Society’s yearly Essay Competition for secondary school in both junior and senior school categories. At the event held at Terra kulture, Victoria Island, Lagos, Oladipupo Eniola of unity junior Grammar school, Ikare, Lagos won the 1st prize of N50,000 while Amusuni patience Benedicta and Olatayo oluwatosin, both from Magbon Alade junior Grammar school, Ibeju lekki grabbed the 2nd and 3rd best prizes respectively in the Junior School category.</p>
 

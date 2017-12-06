@@ -185,8 +185,7 @@
                       <li><a href="mohammedmunir.php">Alhaji Mohammed Munir Ja'afaru</a></li>
                       <li><a href="folashadealli.php">Mrs. Folashade Alli</a></li>
                       <li><a href="peterbamkole.php">Engr. Peter Bamkole</a></li>
-                      <li><a href="anamikachatterjee.php">Anamika Chatterjee</a></li>
-                      <li><a href="nnaetorazulike.php">Dr. Nnaeto Orazulike</a></li>
+                      <li><a href="msinha.php">Mrs. Monika Sinha</a></li>
                       <li><a href="ngoziobigwe.php">Ms. Ngozi Obigwe</a></li>
                       <li><a href="fabianajogwu.php">Professor Fabian Ajogwu, SAN</a></li>
                     </ul>

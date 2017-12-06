@@ -114,6 +114,31 @@
               <div class="col-md-2"></div>
               <div class="col-md-8">
                 <div class="blog-archive-left">
+
+
+
+        <article class="blog-news-single">
+                    <!-- <div class="blog-news-img">
+                      <img src="assets/images/calc2suc.jpg" alt="image" >
+                    </div> -->
+                    <div class="blog-news-title">
+                      <h2><b>CALCULATE2SUCCEED 2017</b></h2>
+                      <!-- <p>By <a class="blog-author" href="#">John Powell</a> <span class="blog-date">|18 October 2015</span></p> -->
+                    </div>
+                    <div class="blog-news-details blog-single-details">
+                      <p>The AIFA Reading Society Calculate2Succeed is one of the projects under the Society's Junior Initiative. Through this project, the Society seeks to empower students in government owned secondary schools with the tools necessary to succeed in mathematics and science subjects.</p>
+
+                      <p>The event is scheduled to hold on Tuesday, December 5, and Wednesday, December 6, 2017.</p>
+                      <br><br>
+                    
+                     <img src="assets/images/CALCULATE2SUCCEED2017.png" alt="image" >
+           
+
+                      
+                      
+                    </div>
+        </article>
+
 				
 				
 				
@@ -144,7 +169,7 @@
                       
                       
                     </div>
-                  </article>
+        </article>
 
 
 
